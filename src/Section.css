@@ -1,0 +1,11 @@
+.my-todos-header{
+    display: flex;
+}
+
+.my-todos{
+    flex : 1;
+}
+
+.card{
+    background-color: rgb(188, 232, 201)    ;
+}
